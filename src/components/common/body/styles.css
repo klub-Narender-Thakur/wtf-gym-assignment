@@ -1,0 +1,25 @@
+.body {
+    /* background-image: url('../../../public/images.jpg'); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 60vh;
+    display: flex;
+    background-color: #500915;
+  }
+  .left-div-body {
+    width: 20%;
+    height: 80vh;
+     background-image: url('../../../../public/assets/images/running_girl.png');
+     background-repeat: no-repeat;
+     text-align: end;
+     margin-left: 30%;
+  }
+
+  .right-div {
+    margin-top: 50px;
+    width: 40%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-image: url('../../../../public/assets/images/running_boy.png');
+
+  }

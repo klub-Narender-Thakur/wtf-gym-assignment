@@ -1,0 +1,34 @@
+.gym-list-div {
+    background-color: #1a1e22;
+    width: 100%;
+    margin-bottom: 5%;
+    border-radius: 0px 0px 10px 10px;
+}
+.heading {
+    font-size: 30px;
+  }
+  .innner-div {
+    width: 60%;
+    margin-left: 35%;
+    text-align: start;
+  }
+.button-div {
+    width: 100%;
+    text-align: end;
+}
+.submit-button {
+    font-size: 100%;
+    width: 14%;
+    height: 45px;
+    background-color: #b10f2a;
+    color: white;
+    border-radius: 7%;
+    margin-right: 2%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+.main-div-list {
+  /* display: none; */
+  /* overflow: auto;
+  height: 00px; */
+}
